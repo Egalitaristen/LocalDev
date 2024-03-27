@@ -1,2 +1,2 @@
 # LocalDev
-A local developer agent
+An integrative development tool aimed at enabling local development with advanced GUI features.\n\n## Installation\nClone the repository:\n```\ngit clone https://github.com/MightEnlightenYou/LocalDev.git\n```\nInstall dependencies:\n```\ncd LocalDev/GUI\nnpm install\n```\n\n## Usage\nStart the development server:\n```\nnpm start\n```\n\n## Contribution\nFeel free to contribute to the project by submitting pull requests or opening issues.\n## License\nLicensed under YOUR LICENSE (feel free to change this according to your project's needs).
