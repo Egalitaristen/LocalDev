@@ -1,0 +1,1 @@
+import React from 'react';\n\nfunction MainSection() {\n  return (\n    <div className=\"MainSection\">\n      <h1>Main Content</h1>\n      <p>This is where you can add detailed information about your LocalDev project.</p>\n    </div>\n  );\n}\n\nexport default MainSection;
