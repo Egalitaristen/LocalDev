@@ -1,0 +1,2 @@
+Agent Core Directory
+This directory contains all code and resources for the Agent Core of the LocalDev project. It includes modules for orchestration, interaction, and operation of various parts of the software.
