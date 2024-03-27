@@ -1,0 +1,2 @@
+GUI Directory
+This directory contains all code and resources needed for the graphical user interface of the LocalDev project. The GUI aims to provide an intuitive and attractive user experience, focusing on clarity and simplicity. This includes user interface design, interaction flow, and visual elements.
