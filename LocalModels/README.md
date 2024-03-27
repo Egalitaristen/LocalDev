@@ -1,0 +1,2 @@
+Local Models Directory
+This directory contains all code and resources needed for integrating and using local models within the LocalDev project. It aims to provide alternatives to cloud-based language models, allowing for greater control and privacy. It includes information on how to set up, configure, and use these models in your software projects.
