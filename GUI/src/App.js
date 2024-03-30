@@ -1,1 +1,0 @@
-import React from 'react';\nimport './App.css';\n\nfunction App() {\n  return (\n    <div className=\"App\">\n      <header className=\"App-header\">LocalDev GUY</header>\n      <p>This is the main panel for the LocalDev GUY.</p>\n    </div>\n  );\n}\n\nexport default App;

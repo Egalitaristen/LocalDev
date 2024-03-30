@@ -1,1 +1,0 @@
-import React from 'react';\n\nfunction Header() {\n  return (\n    <header className=\"Header\">\n      <h1>LocalDev GUI</h1>\n      <nav>\n        <a href=\"#\">Home</a>\n        <a href=\"#\">About</a>\n      </nav>\n    </header>\n  );\n}\n\nexport default Header;
